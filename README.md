@@ -9,8 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luiz2077&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz2077&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😃
-<img src='https://media.tenor.com/Jvd2yVUP4CgAAAAd/the-rock-think.gif' style="height: 400px;"/>
+### 🤨
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjyIMTEeOJXqU1jjqPjC7FbQaBpTYoLPzy3QJnAA&s' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luiz2077&icon=0&color=6)](https://visitcount.itsvg.in)
