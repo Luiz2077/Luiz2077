@@ -8,9 +8,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Luiz2077&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Luiz2077&theme=midnight-purple&hide_border=false&include_all_commits=false&count)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Luiz2077&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz2077&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz2077&theme=midnight-purple&hide_border=false&include_all_commits=false&count&layout=compact)
 
 ### 🤨
 <img src='https://media.tenor.com/Jvd2yVUP4CgAAAAM/the-rock-think.gif' style="height: 400px;"/>
